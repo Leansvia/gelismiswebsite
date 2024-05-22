@@ -15,6 +15,10 @@
 
 -Katkıda bulunmak isterseniz, lütfen önce katkı rehberimizi okuyun. Hataları bildirmek, özellik önerileri sunmak veya doğrudan bir pull request (çekme isteği) oluşturmak için GitHub üzerindeki sorunlar (issues) bölümünü kullanabilirsiniz
 
+# LICENSE
+
+- Bu proje MIT Lisansı altında lisanslanmıştır. Daha fazla bilgi için LICENSE dosyasını inceleyin.
+
 ![preview img](https://i.hizliresim.com/h92rwox.png)
 ![preview img](https://i.hizliresim.com/761s4b6.png)
 ![preview img](https://i.hizliresim.com/j6dj3j8.png)
