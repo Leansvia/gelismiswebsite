@@ -11,10 +11,6 @@
 - Modüler ve Ölçeklenebilir: Kolayca genişletilebilir ve yeni özellikler eklenebilir.
 - Kullanıcı Dostu Arayüz: Kolay gezinme ve etkileşim için tasarlanmıştır.
 
-# Katkıda Bulunma
-
--Katkıda bulunmak isterseniz, lütfen önce katkı rehberimizi okuyun. Hataları bildirmek, özellik önerileri sunmak veya doğrudan bir pull request (çekme isteği) oluşturmak için GitHub üzerindeki sorunlar (issues) bölümünü kullanabilirsiniz
-
 # LICENSE
 
 - Bu proje MIT Lisansı altında lisanslanmıştır. Daha fazla bilgi için LICENSE dosyasını inceleyin.
